@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#miParrafo {
+  color: lightgreen;
+  font-size: 2rem;
+  margin: 2rem;
+}
+
+#miBoton {
+  font-size: 1.5rem;
+  margin: 2rem;
+  background-color: lightskyblue;
+}
